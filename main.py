@@ -13,6 +13,5 @@ def main():
 			print(Move)
 
 	print(count)
-
 	
 main()
